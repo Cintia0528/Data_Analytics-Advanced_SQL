@@ -6,7 +6,7 @@ In this repository I tackle 2 separate databases.
 2. Magist database where I complete a number of challenges by **revisiting and expanding** the analysis performed in Project 1
 
 ### Challenge: 
-*Learn and employ new SQL functions in order to speed up and perform more in-depth analysis* 
+*Employ stored procedures and functions for long-term time and cost savings, and increased analytial efficiency. Transforming my approach with extended toolkit of CTEs, window functions and raw data manipulation for a comprehensive database mastery* 
 
 ### Files
   1. IMDB questions [here](https://github.com/Cintia0528/Project-9-Advanced-SQL/blob/67c3f6585884f2e7749c7404b61f645727216db5/IMDB%20questions%20-%20Advanced%20SQL.pdf) and corresponding SQL code [here](https://github.com/Cintia0528/Project-9-Advanced-SQL/blob/67c3f6585884f2e7749c7404b61f645727216db5/imdb_analysis.sql)
